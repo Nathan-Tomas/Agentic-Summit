@@ -1,7 +1,7 @@
 ## Team
 
 ### Team Number: 12
-### Team Members (Names): Nathan Tomas, 
+### Team Members (Names): Nathan Tomas (tomas141@umn.edu), Eugeniu Plamadeala
 ### Category Number: 4
 
 ## Game Design
@@ -34,3 +34,4 @@
 ## Additional Questions
 
 ### If you had more time, how would you improve or enhance this game?
+
